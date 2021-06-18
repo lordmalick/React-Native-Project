@@ -1,2 +1,1 @@
-# React-Native-Project
-An App that Make easier Scheduling meetings 
+React Native est idéal pour les applications mobiles. Il fournit une interface utilisateur fluide, fluide et réactive, tout en réduisant considérablement le temps de chargement. Il est également beaucoup plus rapide et moins cher de créer des applications dans React Native plutôt que de créer des applications natives, sans avoir à faire de compromis sur la qualité et les fonctionnalités.
